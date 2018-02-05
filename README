@@ -1,0 +1,2 @@
+mvn clean install
+java -jar target/webapi-1.0-SNAPSHOT.jar
